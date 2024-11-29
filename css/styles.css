@@ -49,9 +49,7 @@ color: #4d5ae5;
     color: #404bbf;
 }
 
-.footer-logo .logo-part{
-    color: #f4f4fd;
-}
+
 /* ---------- sechion1 --- */
 .hero {
     background: #2e2f42;
@@ -81,17 +79,6 @@ color: #4d5ae5;
     background-color: #404bbf;
 }
 /* ----------- section2 --- */
-.benefits {
-
-}
-
-.ben-title {
-    /* display: none; */
-}
-
-.ben-list {}
-
-.ben-item {}
 
 .ben-it-title {
         font-weight: 500;
@@ -123,8 +110,6 @@ color: #4d5ae5;
         text-transform: capitalize;
 }
 
-.team-list {}
-
 .teamlist {
     background-color: #FFFFFF;
 }
@@ -138,9 +123,6 @@ color: #4d5ae5;
         color: #2e2f42;
 }
 
-.teamlist-foto {
-}
-
 .teamlist-item {
         font-weight: 400;
         font-size: 16px;
@@ -150,7 +132,6 @@ color: #4d5ae5;
         color: #434455;
 }
 /* ----------- section4 ----- */
-.portfolio {}
 
 .portfolio-title {
         font-weight: 700;
@@ -160,13 +141,6 @@ color: #4d5ae5;
         text-align: center;
         color: #2e2f42;
         text-transform: capitalize;
-}
-
-.portfolio-list {}
-
-.portfoliolist {}
-
-.portfoliolist-foto {
 }
 
 .portfoliolist-title {
@@ -189,15 +163,13 @@ color: #4d5ae5;
     background: #2e2f42;
 }
 
-.logo {}
-
-.footer-logo {}
-
-.logo-part {}
 .footer-text{
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
+}
+.footer-logo .logo-part{
+    color: #f4f4fd;
 }
